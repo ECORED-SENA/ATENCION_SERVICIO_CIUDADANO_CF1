@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="259.75" viewBox="0 0 500 259.75">
+  <g id="Grupo_131528" data-name="Grupo 131528" transform="translate(-915 -1633.25)">
+    <g id="Grupo_130996" data-name="Grupo 130996" transform="translate(328 86.438)">
+      <path id="Trazado_146899" data-name="Trazado 146899" d="M16794.346-10055.379v186.043h241.895" transform="translate(-16021.665 11602.19)" fill="none" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_146900" data-name="Trazado 146900" d="M16954.973-9883.362v-124.523h-161.291" transform="translate(-16021.863 11616.217)" fill="none" stroke="#f2884b" stroke-width="3" stroke-dasharray="5"/>
+      <rect id="Rectángulo_35414" data-name="Rectángulo 35414" width="48" height="28" transform="translate(719 1565.562)" fill="#e8e8e8"/>
+      <rect id="Rectángulo_35420" data-name="Rectángulo 35420" width="48" height="28" transform="translate(943 1741.562)" fill="#e8e8e8"/>
+      <rect id="Rectángulo_35415" data-name="Rectángulo 35415" width="79" height="28" transform="translate(688 1631.562)" fill="#fce0cf"/>
+      <rect id="Rectángulo_35419" data-name="Rectángulo 35419" width="79" height="28" transform="translate(843 1741.562)" fill="#fce0cf"/>
+      <rect id="Rectángulo_35417" data-name="Rectángulo 35417" width="91" height="28" transform="translate(587 1631.562)" fill="#edf5f8"/>
+      <rect id="Rectángulo_35421" data-name="Rectángulo 35421" width="91" height="29" transform="translate(838 1777.562)" fill="#edf5f8"/>
+      <rect id="Rectángulo_35422" data-name="Rectángulo 35422" width="145" height="28" transform="translate(942 1588.562)" fill="#edf5f8"/>
+      <rect id="Rectángulo_35416" data-name="Rectángulo 35416" width="48" height="28" transform="translate(719 1689.562)" fill="#b9dbeb"/>
+      <rect id="Rectángulo_35418" data-name="Rectángulo 35418" width="48" height="28" transform="translate(777 1741.562)" fill="#b9dbeb"/>
+      <text id="Alta" transform="translate(729.487 1584.322)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Alta</tspan></text>
+      <text id="Alta-2" data-name="Alta" transform="translate(953.58 1760.488)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Alta</tspan></text>
+      <text id="Moderna" transform="translate(694.513 1649.089)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Moderna</tspan></text>
+      <text id="Moderna-2" data-name="Moderna" transform="translate(849.953 1759.192)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Moderna</tspan></text>
+      <text id="Baja" transform="translate(726.249 1708.674)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Baja</tspan></text>
+      <text id="Baja-2" data-name="Baja" transform="translate(784.539 1760.488)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Baja</tspan></text>
+      <text id="Eficiencia" transform="translate(596 1651.562)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Eficiencia</tspan></text>
+      <text id="Eficiencia-2" data-name="Eficiencia" transform="translate(847 1797.562)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Eficiencia</tspan></text>
+      <text id="Nivel_de_Eficiencia" data-name="Nivel de Eficiencia" transform="translate(946 1608.562)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Nivel de Eficiencia</tspan></text>
+    </g>
+  </g>
+</svg>
