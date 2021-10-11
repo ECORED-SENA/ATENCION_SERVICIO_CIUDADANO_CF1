@@ -1,0 +1,215 @@
+//Forzar colores
+$primario-medio: #B9DBEB
+$primario-claro: #CCE7EB
+$cac-claro: #FCE0CF
+$casi-blanco: #f6f6f6
+$gris-claro: #EDF5F8
+
+.cp
+  color: $color-primario !important
+
+.fcp
+  background-color: #CCE7EB !important
+
+.fcpm, .cajon.color-secundario
+  background-color: $primario-medio !important
+
+.cs
+  color: $color-secundario !important
+
+.fcs
+  background-color: $color-secundario !important
+
+.cac
+  color: $color-acento-contenido !important
+
+.fcac
+  background-color: $color-acento-contenido !important
+
+.bloque-texto-a.color-secundario, .bloque-texto-a.color-primario
+  background-color: #E8E8E8 !important
+
+.fcb
+  background-color: $casi-blanco !important
+
+.fblanco
+  background-color: $white
+
+.bloque-texto-f.color-primario
+  &::before
+    background-color: $primario-medio !important
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: $color-secundario !important
+  background-image: url(../assets/curso/arrow.svg) !important
+
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+  background-color: $primario-claro !important
+
+.linea-tiempo-d
+  &__item--selected
+    span
+      color: white !important
+  &__item__dots
+    &::after
+      content: ''
+      display: block
+      width: 0
+      height: 100%
+      border-left: 5px dotted $color-acento-contenido
+
+
+  
+//Background personalizados
+.contenedor
+  margin-left: -3rem
+  margin-right: -3rem
+  padding: 3rem
+  
+.bg1
+  background-image: url('../assets/curso/bg1.svg')
+  background-position: center top
+  background-repeat: no-repeat
+
+.bg2
+  background-image: url('../assets/curso/bg2.jpg')
+  background-position: center center
+  background-repeat: no-repeat
+  background-size: cover
+
+.bg3
+  background-image: url('../assets/curso/bg3.png')
+  background-position: center center
+  background-repeat: no-repeat
+  background-size: 100% 100%
+
+.bg3-5
+  background-image: url('../assets/curso/bg3-5.png')
+  background-repeat: no-repeat
+  background-size: 100% 100%
+  
+.bg5
+  background-image: url('../assets/curso/bg5.svg')
+  background-position: center bottom
+  background-repeat: no-repeat
+  
+.bg6
+  background-image: url('../assets/curso/bg6.svg')
+  background-position: center bottom
+  background-repeat: no-repeat
+
+.bg7
+  background-color: $cac-claro
+
+.bg8
+  background-color: $gris-claro
+
+//Varios
+.boxShadow
+  box-shadow: 3px 5px 15px #00000066
+
+.hover 
+    margin-top: -162px
+    opacity: 0
+    transition: .25s
+
+.noHover 
+    opacity: 1
+    transition: .25s
+
+figure
+  &:hover
+    .hover
+      opacity: 1
+      transform: scale(1.1)
+    .noHover
+      opacity: 0
+
+.w28px
+  width: 28px
+
+.w305px
+  width: 305px !important
+
+.h380px
+  height: 380px
+  padding-top: 9rem
+  padding-left: 1.5rem
+  padding-right: 1.5rem
+  margin-top: -7rem
+
+.dashedHr
+  border-bottom: #363636 dashed 2px
+
+.tabs-c__header
+  margin-bottom: 0 !important
+
+.floatRight
+  float: right
+
+.cajon-b.color-secundario, .cajon-c.color-secundario
+  &::before
+    background-color: $primario-claro !important
+
+.cajon-b.color-acento-contenido, .cajon-c.color-acento-contenido
+  &::before
+    background-color: $cac-claro !important
+
+.cajon-b.color-casi-blanco
+  &::before
+    background-color: $gris-claro !important
+
+.cajon-c
+  position: relative
+  &::before
+    content: ''
+    display: block
+    position: absolute
+    opacity: .35
+    bottom: 0
+    right: 0
+    left: 60%
+    top: 50%
+    height: 50px
+    mix-blend-mode: multiply
+
+.tabla-b, .tabla-c
+  th
+    width: auto !important
+    border-right: 1px solid #e8e8e8
+
+@media screen and (min-width: 1400px)
+  .mt_6rem
+    margin-top: -11rem
+
+@media (min-width: 1200px) and (max-width: 1399px)
+  .mt_6rem
+    margin-top: -6rem
+
+@media (min-width: 992px) and (max-width: 1199px)
+  .mt_6rem
+    margin-top: -1rem
+
+@media screen and (max-width: 991px)
+  figure
+    img
+      max-width: 305px
+      margin: 1.5rem auto
+    figcaption
+      margin-bottom: 1.5rem
+
+@media screen and (min-width: 991px)
+  .traslape 
+    margin: -130px auto 35px
+  .traslape
+    .col-md-1
+      figure
+        min-width: 74px
+        max-width: 80px
+        margin-left: -40px
+    
+  .h160px
+    height: 160px
+
+.ofVisible
+  overflow: visible

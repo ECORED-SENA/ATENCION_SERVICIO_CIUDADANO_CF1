@@ -10,42 +10,42 @@
 
     p.mb-5 El seguimiento y verificación de respuesta es parte del proceso que deben realizar las organizaciones frente a los requerimientos recibidos por parte de los usuarios o ciudadanos, para tal caso se debe recibir, tramitar y resolver las peticiones que la ciudadanía formule y se relacionan con el cumplimiento de la misión de la entidad con oportunidad, calidad y transparencia.
     
-    .row.align-items-center.mb-5
+    .row.mb-5
       .col-lg-6
         LineaTiempoD.color-acento-contenido
           .row(numero="1" titulo="")
             .col-lg-9
-              p 1)	Gestionar en su propio sistema de gestión documental, las peticiones desde su recibo hasta su respuesta, incluyendo los controles y la generación de reportes respectivos 
+              p Gestionar en su propio sistema de gestión documental, las peticiones desde su recibo hasta su respuesta, incluyendo los controles y la generación de reportes respectivos 
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f1.svg' alt='icono relacionado')
           .row(numero="2" titulo="")
             .col-lg-9
-              p 2)	Recibir, tipificar y asignar la solicitud en el Sistema de Gestión Documental de la entidad, evaluar la petición y asignar a un funcionario de acuerdo con su competencia. Tener en cuenta una metodología diferenciada para las peticiones escritas, verbales o anónimas. 
+              p Recibir, tipificar y asignar la solicitud en el Sistema de Gestión Documental de la entidad, evaluar la petición y asignar a un funcionario de acuerdo con su competencia. Tener en cuenta una metodología diferenciada para las peticiones escritas, verbales o anónimas. 
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f2.svg' alt='icono relacionado')
           .row(numero="3" titulo="")
             .col-lg-9
-              p 3)	Garantizar que los datos de toda la ciudadanía queden en el sistema después de haber sido inscritos por primera y única vez, cuando no obedezcan a peticiones anónimas, de tal manera que todas las interacciones subsecuentes, no generen reprocesos para la ciudadanía en el suministro de su información personal. 
+              p Garantizar que los datos de toda la ciudadanía queden en el sistema después de haber sido inscritos por primera y única vez, cuando no obedezcan a peticiones anónimas, de tal manera que todas las interacciones subsecuentes, no generen reprocesos para la ciudadanía en el suministro de su información personal. 
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f3.svg' alt='icono relacionado')
           .row(numero="4" titulo="")
             .col-lg-9
-              p 4)	Verificar la competencia de la dependencia sobre la petición, queja, reclamo, sugerencia o denuncia, de acuerdo con la temática. Si no es competencia de la entidad, se deberá trasladar la petición a la Entidad competente dentro de los cinco (5) días siguientes al recibo de la comunicación y enviar copia al interesado. 
+              p Verificar la competencia de la dependencia sobre la petición, queja, reclamo, sugerencia o denuncia, de acuerdo con la temática. Si no es competencia de la entidad, se deberá trasladar la petición a la Entidad competente dentro de los cinco (5) días siguientes al recibo de la comunicación y enviar copia al interesado. 
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f4.svg' alt='icono relacionado')
           .row(numero="5" titulo="")
             .col-lg-9
-              p 5)	Recopilar y analizar información relacionada con la solicitud, preparar y proyectar respuesta teniendo en cuenta el tipo de petición y los tiempos de vencimiento para dar respuesta a la petición en términos de oportunidad, eficiencia, eficacia y calidad. 
+              p Recopilar y analizar información relacionada con la solicitud, preparar y proyectar respuesta teniendo en cuenta el tipo de petición y los tiempos de vencimiento para dar respuesta a la petición en términos de oportunidad, eficiencia, eficacia y calidad. 
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f5.svg' alt='icono relacionado')
           .row(numero="6" titulo="")
             .col-lg-9
-              p 6)	Comprobar las peticiones a cargo de la dependencia y emitir respuesta acorde con los tiempos establecidos. 
+              p Comprobar las peticiones a cargo de la dependencia y emitir respuesta acorde con los tiempos establecidos. 
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f6.svg' alt='icono relacionado')
@@ -53,37 +53,37 @@
         LineaTiempoD.color-acento-contenido
           .row(numero="7" titulo="")
             .col-lg-9
-              p 7)	Realizar seguimiento a las respuestas a cargo de cada dependencia de la entidad. 
+              p Realizar seguimiento a las respuestas a cargo de cada dependencia de la entidad. 
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f7.svg' alt='icono relacionado')
           .row(numero="8" titulo="")
             .col-lg-9
-              p 8)	Revisar en el sistema de gestión documental todas las peticiones radicadas y verificar que se haya emitido respuesta. 
+              p Revisar en el sistema de gestión documental todas las peticiones radicadas y verificar que se haya emitido respuesta. 
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f8.svg' alt='icono relacionado')
           .row(numero="9" titulo="")
             .col-lg-9
-              p 9)	Examinar y efectuar seguimiento de las solicitudes que estén próximas al vencimiento de los términos para emisión de respuesta, según el tipo de solicitud. 
+              p Examinar y efectuar seguimiento de las solicitudes que estén próximas al vencimiento de los términos para emisión de respuesta, según el tipo de solicitud. 
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f9.svg' alt='icono relacionado')
           .row(numero="10" titulo="")
             .col-lg-9
-              p 10)	Preparar y presentar informes de seguimiento de todas las peticiones a cargo del área responsable de liderar la gestión de servicio a la ciudadanía para su posterior publicación en página web. 
+              p Preparar y presentar informes de seguimiento de todas las peticiones a cargo del área responsable de liderar la gestión de servicio a la ciudadanía para su posterior publicación en página web. 
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f10.svg' alt='icono relacionado')
           .row(numero="11" titulo="")
             .col-lg-9
-              p 11)	Proyectar informes periódicos de las peticiones para la revisión de la oficina de Secretaría General, la dirección institucional o los entes externos de control, así como para informes de rendición de cuentas. 
+              p Proyectar informes periódicos de las peticiones para la revisión de la oficina de Secretaría General, la dirección institucional o los entes externos de control, así como para informes de rendición de cuentas. 
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f11.svg' alt='icono relacionado')
           .row(numero="12" titulo="")
             .col-lg-9
-              p 12)	Presentar en el Comité de Desarrollo Administrativo, el informe periódico de peticiones.
+              p Presentar en el Comité de Desarrollo Administrativo, el informe periódico de peticiones.
             .col-lg-3
               figure
                 img(src='@/assets/curso/t3/f12.svg' alt='icono relacionado')
@@ -98,7 +98,7 @@
 
       .row.align-items-center.mb-5
         .col-lg-7
-          h3.cp ●	Evaluar y monitorear los resultados de prestación del servicio 
+          h3.cp Evaluar y monitorear los resultados de prestación del servicio 
           p Es importante considerar indicadores que vayan más allá de la simple gestión operativa del servicio, como tiempo de resolución de la solicitud o número de solicitudes atendidas, para considerar indicadores que midan el contexto e impacto de la prestación del servicio, medición de casos especiales.
           p La medición de la Política de Servicio al Ciudadano se materializa mediante la implementación de la dimensión de Evaluación de Resultados de MIPG, en la medida en que dicha dimensión busca conocer permanentemente los avances en la consecución de los resultados previstos en la planeación y definir los efectos de la gestión institucional en la garantía de los derechos, satisfacción de necesidades y resolución de los problemas de los grupos de interés o valor para la institución porque son quienes expresan la efectividad de la entidad.
           p Se propone establecer un esquema de seguimiento en dos partes: 
@@ -106,15 +106,15 @@
           figure
             img(src='@/assets/curso/t3/f14.png' alt='Imagen relacionada')
 
-    .col-lg-7.mx-auto
-      .row.bg3.traslape
-        .col-md-1
-          figure
-            img(src='@/assets/curso/t3/e1.svg' alt='1')
-        .col
-          p.mb-0 ●	La primera, que permita conocer los avances respecto de la gestión institucional para el servicio al ciudadano y su implementación política desde el punto de vista de la entidad:
+    .contenedor.bg7.ofVisible
+      .col-lg-7.mx-auto
+        .row.bg3.traslape.h160px.align-items-center
+          .col-md-1
+            figure
+              img(src='@/assets/curso/t3/e1.svg' alt='1' style='width:74px')
+          .col
+            p.mb-0 La primera, que permita conocer los avances respecto de la gestión institucional para el servicio al ciudadano y su implementación política desde el punto de vista de la entidad:
 
-    .contenedor.bg7
       .row.align-items-center
         .col-lg-8
           h3 Evaluación y medición de la gestión institucional e implementación de la política.
@@ -126,7 +126,7 @@
           figure
             img(src='@/assets/curso/t3/f15.png' alt='Imagen relacionada')
 
-      .row.align-items-center
+      .row.align-items-center.mb-4
         .col-lg-4
           figure
             img(src='@/assets/curso/t3/f16.svg' alt='Imagen relacionada')
@@ -142,18 +142,18 @@
         .titulo-sexto.color-acento-contenido
           span Medición de la gestión institucional
         figure
-          img(src='@/assets/curso/t3/f17.svg' alt='Medición de la gestión institucional')
-          figcaption Nota: Alcaldía de Rionegro 2020, página 4 https://rionegro.gov.co/wp-content/uploads/2021/02/INFORME-DE-EVALUACION-Y-SEGUIMIENTO-PQRS-SEMESTRE.pdf
+          img(src='@/assets/curso/t3/f17.svg' alt='Medición de la gestión institucional').mb-4
+          figcaption.mb-5 Nota: Alcaldía de Rionegro 2020, página 4 https://rionegro.gov.co/wp-content/uploads/2021/02/INFORME-DE-EVALUACION-Y-SEGUIMIENTO-PQRS-SEMESTRE.pdf
 
-    .col-lg-7.mx-auto
-      .row.bg3.traslape
-        .col-md-1
-          figure
-            img(src='@/assets/curso/t3/e2.svg' alt='1')
-        .col
-          p.mb-0 ●	La segunda, orientada a identificar la percepción de los ciudadanos por medio de mediciones sobre su experiencia de servicio, la efectividad de los mismos y la capacidad de la entrega de resultados al ciudadano:
+    .contenedor.bg8.ofVisible
+      .col-lg-7.mx-auto
+        .row.bg3.traslape.h160px.align-items-center
+          .col-md-1
+            figure
+              img(src='@/assets/curso/t3/e2.svg' alt='1')
+          .col
+            p.mb-0 La segunda, orientada a identificar la percepción de los ciudadanos por medio de mediciones sobre su experiencia de servicio, la efectividad de los mismos y la capacidad de la entrega de resultados al ciudadano:
 
-    .contenedor.bg6
       .row.align-items-center.mb-5
         .col-lg-8
           h4 Medición de la experiencia de servicio y de la percepción de los ciudadanos

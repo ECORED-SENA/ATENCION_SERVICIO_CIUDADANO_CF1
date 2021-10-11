@@ -24,27 +24,27 @@
         figure
           img(src='@/assets/curso/t6/f2.png' alt='imagen relacionada')
       .col-lg-7
-        ul.lista-ul
+        ul.lista-ul.ms-4
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Ejecución presupuestal.
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Crecimiento y expansión de la presencia operativa y de servicio. 
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Número de servicios o productos prestados. 
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Proyectos iniciados.
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Proyectos concluidos.
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Proyección.
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Temas relacionados con la atención y servicio al ciudadano en general. 
         .cajon-b.color-acento-contenido.p-4
           p.mb-0 Con la información recopilada, analizada y estructurada en el informe de gestión debe ser validada por las diferentes instancias incluido control interno por lo que la entidad deberá programar su divulgación en la página web institucional y en los canales que considere pertinentes para su conocimiento y seguimiento, mínimo una vez por año. 

@@ -18,7 +18,7 @@
     
     .titulo-sexto.color-acento-contenido
       span Reconocimiento del propósito institucional vs. el misional de servicios de la entidad
-    img(src='@/assets/curso/t4/f2.svg' alt='Reconocimiento del propósito institucional vs. el misional de servicios de la entidad')
+    img(src='@/assets/curso/t4/f2.svg' alt='Reconocimiento del propósito institucional vs. el misional de servicios de la entidad').mb-4
     figcaption.mb-5 Nota: Modelo integrado de gestión (2006). Taller 1, página 22. https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_-_direccionamiento_estrategico_y_planeacion.pdf 
 
     .row.align-items-center
@@ -27,7 +27,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p <b>Anexo.</b> Reconocimiento_propósito_institucional_vs._misional_servicios_entidad
+            p <b>Anexo.</b> Reconocimiento propósito institucional vs. misional servicios entidad
         figure
           img(src='@/assets/curso/t4/f3.png' alt='')
       .col-lg-7
@@ -38,35 +38,35 @@
 
     .titulo-sexto.color-acento-contenido
       span Proceso y población a caracterizar
-    .row.mb-5.justify-content-center
+    .row.mb-5
       .col-lg-3
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta-avatar
-            img(src='@/assets/curso/t4/f4.svg' alt='1')
-            .tarjeta.color-primario
-              .text-white.p-4.text-center
-                p Determine el grupo de individuos beneficiados directa o indirectamente de los productos o servicios que oferta entidad pública.
+        .tarjeta-avatar
+          img(src='@/assets/curso/t4/f4.svg' alt='1')
+          .fcpm.boxShadow
+            .p-5
+            .px-4.py-5.text-center
+              p Determine el grupo de individuos beneficiados directa o indirectamente de los productos o servicios que oferta entidad pública.
       .col-lg-3
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta-avatar
-            img(src='@/assets/curso/t4/f5.svg' alt='2')
-            .tarjeta.color-primario
-              .text-white.p-4.text-center
-                p Establezca el conjunto de características descriptivas de los individuos identificados en el punto anterior: edad, género, estrato, nivel educativo, etnia religión, etc. Y priorice.
+        .tarjeta-avatar
+          img(src='@/assets/curso/t4/f5.svg' alt='2')
+          .fcpm.boxShadow
+            .p-5
+            .px-4.py-5.text-center
+              p Establezca el conjunto de características descriptivas de los individuos identificados en el punto anterior: edad, género, estrato, nivel educativo, etnia religión, etc. Y priorice.
       .col-lg-3
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta-avatar
-            img(src='@/assets/curso/t4/f6.svg' alt='3')
-            .tarjeta.color-primario
-              .text-white.p-4.text-center
-                p Identifique fuentes de información: bases de datos de usuarios, PQR, ventanilla de información, encuestas, etc.
+        .tarjeta-avatar
+          img(src='@/assets/curso/t4/f6.svg' alt='3')
+          .fcpm.boxShadow
+            .p-5
+            .px-4.py-5.text-center
+              p Identifique fuentes de información: bases de datos de usuarios, PQR, ventanilla de información, encuestas, etc.
       .col-lg-3
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta-avatar
-            img(src='@/assets/curso/t4/f7.svg' alt='4')
-            .tarjeta.color-primario
-              .text-white.p-4.text-center
-                p Estructure bases de datos que faciliten el análisis de datos, cruce y filtre la información, identifique principales y recurrentes actores de la empresa y fije prioridades.
+        .tarjeta-avatar
+          img(src='@/assets/curso/t4/f7.svg' alt='4')
+          .fcpm.boxShadow
+            .p-5
+            .px-4.py-5.text-center
+              p Estructure bases de datos que faciliten el análisis de datos, cruce y filtre la información, identifique principales y recurrentes actores de la empresa y fije prioridades.
 
     .col-lg-8.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
@@ -96,12 +96,12 @@
       .titulo-sexto.color-acento-contenido
         span Ejemplo de definición de variables para caracterización
       figure
-        img(src='@/assets/curso/t4/f14.svg' alt='')
+        img(src='@/assets/curso/t4/f14.svg' alt='').mb-4
         figcaption Fuente: Departamento administrativo de la función pública. (2018). Modelo integrado de planeación y gestión. página 30. https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_-_direccionamiento_estrategico_y_planeacion.pdf 
 
     .row.align-items-center.mb-5
       .col-lg-7
-        p De acuerdo a las anteriores figuras se deben establecer los tipos de variables, las cuales se pueden ajustar en conformidad al tipo de usuario o población a atender, o que sea objeto de interés por parte de la entidad. 
+        p De acuerdo a las anteriores figuras se deben establecer los tipos de variables, las cuales se pueden ajustar <b><span class="cp">en conformidad al tipo de usuario o población a atender, o que sea objeto de interés por parte de la entidad.</span></b> 
         .cajon-b.color-acento-contenido.p-4
           p.mb-0 Una vez capturada la información, realizados los análisis de la información y generada la tipificación de los usuarios según las necesidades de la institución o conforme la requiera la entidad pública, se debe focalizar los grupos prioritarios de orientación de los servicios, ejemplo: la entidad establece prioridad en las madres gestantes adolescentes del sector rural, de zonas en condiciones de vulnerabilidad por acceso a los servicios públicos domiciliarios; así mismo, requiere ofertar sus servicios a la población de adultos mayores de las mismas zonas.
         p Estos aspectos harán que la prestación del servicio sea por inmersión y los canales de atención serán acorde a los dos tipos de población, donde en el caso de los adultos mayores quizá sea necesario los mecanismos de inmersión y los convencionales de publicidad por folletos o en medios convencionales, pero no por canales digitales y puntos de contacto como chat.
@@ -137,9 +137,9 @@
       div(titulo="●	Ajuste o definición del protocolo de servicio")
         .row.align-items-center
           .col-lg-8
-            .cajon-b.color-primario.p-4
+            .cajon-b.color-secundario.p-4
               p Una vez realizado el reconocimiento de la actividad fundamental de la entidad, para la cual se creó como entidad pública, su declaración de propósito misional, visión institucional y demás aspectos de promulgación, difusión y atención vigentes, como son los canales y puntos de contacto, es necesario hacer una revisión y ajuste al protocolo de servicio vigente, identificando su validez, alcance y pluralidad, de tal manera que permita establecer si se acepta y facilita la atención y servicio al ciudadano frente al acceso de los servicios propios de la entidad, y demás formas de vinculación como son PQRS, participación en proyectos de formulación democrática, jornadas de rendición de cuentas, entre otros.
-            p Es necesario definir la capacidad técnica y el nivel de capacitación del talento humano de la entidad, que desarrolla el protocolo de atención y servicio (información que se obtiene en el proceso de caracterización), con el fin de hacer procesos de capacitación, inducción o reinducción según el caso, ya que el protocolo depende esencialmente de los funcionarios en todos sus niveles, los que atienden directamente, los de orden intermedio que adecuan y los directivos que facultan y dotan la organización para la prestación del servicio.
+            p.px-4 Es necesario definir la capacidad técnica y el nivel de capacitación del talento humano de la entidad, que desarrolla el protocolo de atención y servicio (información que se obtiene en el proceso de caracterización), con el fin de hacer procesos de capacitación, inducción o reinducción según el caso, ya que el protocolo depende esencialmente de los funcionarios en todos sus niveles, los que atienden directamente, los de orden intermedio que adecuan y los directivos que facultan y dotan la organización para la prestación del servicio.
           .col-lg-4
             figure
               img(src='@/assets/curso/t4/f23.png' alt='imagen relacionada')
@@ -147,10 +147,10 @@
             figure
               img(src='@/assets/curso/t4/f23.png' alt='imagen relacionada')
           .col-lg-8
-            .cajon-b.color-primario.p-4
-              p Así mismo, se deben revisar el conjunto de actuaciones previas, durante y posteriores al servicio, que se mencionaron anteriormente, para identificar su eficacia, y por ende, desarrollar los ajustes que minimicen los riesgos y desviaciones en la prestación del servicio, y que, en conformidad al grupo de canales y puntos de contactos redefinidos para la atención al ciudadano, se cuente con la capacitación, entrenamiento y habilidad suficientes al momento de atender a los ciudadanos.
-            p Este proceso descrito, debe ser plenamente ajustado al modelo integrado de planeación y gestión de la empresa, ya que demandará recursos adicionales de diferentes instancias: económicos, de talento, tecnológicos, etc., además no son aspectos meramente relacionados para el personal que tiene contacto con los usuarios o ciudadanos, sino que atañe a toda la entidad.
-            p Finalmente, para efectos de complementar como se elaboran los protocolos de servicio por cada canal, puede utilizar el siguiente recurso:
+            .cajon-b.color-casi-blanco.p-4
+              p.mb-0 Así mismo, se deben revisar el conjunto de actuaciones previas, durante y posteriores al servicio, que se mencionaron anteriormente, para identificar su eficacia, y por ende, desarrollar los ajustes que minimicen los riesgos y desviaciones en la prestación del servicio, y que, en conformidad al grupo de canales y puntos de contactos redefinidos para la atención al ciudadano, se cuente con la capacitación, entrenamiento y habilidad suficientes al momento de atender a los ciudadanos.
+            p.px-4 Este proceso descrito, debe ser plenamente ajustado al modelo integrado de planeación y gestión de la empresa, ya que demandará recursos adicionales de diferentes instancias: económicos, de talento, tecnológicos, etc., además no son aspectos meramente relacionados para el personal que tiene contacto con los usuarios o ciudadanos, sino que atañe a toda la entidad.
+            p.px-4 Finalmente, para efectos de complementar como se elaboran los protocolos de servicio por cada canal, puede utilizar el siguiente recurso:
             .col-lg-6
               a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
                 .anexo__icono

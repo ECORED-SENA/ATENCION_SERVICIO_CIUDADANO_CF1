@@ -20,7 +20,7 @@
     .col-lg-11.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
         span Definición del Modelo de integrado de planeación y gestión
-      img(src='@/assets/curso/t2/f2.svg' alt='Definición MIPG')
+      img(src='@/assets/curso/t2/f2.svg' alt='Definición MIPG').mb-4
       figcaption Fuente: <a href="https://www.funcionpublica.gov.co/documents/28587410/34112007/Manual+Operativo+MIPG.pdf/ce5461b4-97b7-be3b-b243-781bbd1575f3" target="_blank">Departamento Administrativo de la Función Pública, 2019 Manual Operativo del Modelo Integrado de Planeación y Gestión, página 8</a>. 
 
     .row.align-items-center.mb-5
@@ -43,8 +43,8 @@
     .col-lg-11.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
         span Dimensiones del modelo integrado
-      img(src='@/assets/curso/t2/f5.svg' alt='Dimensiones del modelo integrado')
-      figcaption Nota: Departamento Administrativo de la Función Pública, 2017 (Imagen tomada de Manual Operativo del Modelo Integrado de Planeación y Gestión, página 16)
+      img(src='@/assets/curso/t2/f5.svg' alt='Dimensiones del modelo integrado').mb-4
+      figcaption.mb-4 Nota: Departamento Administrativo de la Función Pública, 2017 (Imagen tomada de Manual Operativo del Modelo Integrado de Planeación y Gestión, página 16)
       a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-pdf.svg")
@@ -58,7 +58,7 @@
         p A continuación, se puede entender como los motores de MIPG son los principios de integridad y legalidad:
         .titulo-sexto.color-acento-contenido
           span Motores de MIPG
-        img(src='@/assets/curso/t2/t1.svg' alt='Motores de MIPG')
+        img(src='@/assets/curso/t2/t1.svg' alt='Motores de MIPG').mb-4
         figcaption Fuente: Departamento Administrativo de la Función Pública, 2017- Elaboración propia
       .col-lg-4
         figure
@@ -73,7 +73,7 @@
         figure
           img(src='@/assets/curso/t2/f7.png' alt='imagen relacionada')
       .col-lg-8
-        p Las entidades públicas por su naturaleza, son entidades que cumplen su propósito misional en favor de facilitar la administración y gestión del Estado, facilitando el acceso a los productos o servicios que suministran y que deben poner al servicio de la sociedad, ya sean estas de naturaleza nacional, departamental o municipal, garantizando el disfrute de los derechos; así mismo, respondiendo a los diversos requerimientos o peticiones que las personas naturales o jurídicas puedan interponer, siendo un deber, por ley, darle atención y responder en conformidad a su alcance y responsabilidad. Es así como dentro del Modelo Integrado de Planeación y Gestión (MIPG), las entidades públicas deben establecer un proceso para la atención y servicio al ciudadano efectivo, que permita cumplir su propósito misional y atender oportunamente las diferentes peticiones de los ciudadanos en un escenario de equidad y pluralidad, en conformidad a las particularidades sociales.
+        p Las entidades públicas por su naturaleza, son entidades que cumplen su propósito misional en favor de facilitar la administración y gestión del Estado, facilitando el acceso a los productos o servicios que suministran y que deben poner al servicio de la sociedad, ya sean estas de naturaleza nacional, departamental o municipal, garantizando el disfrute de los derechos; así mismo, respondiendo a los diversos requerimientos o peticiones que las personas naturales o jurídicas puedan interponer, siendo un deber, por ley, darle atención y responder en conformidad a su alcance y responsabilidad. Es así como dentro del Modelo Integrado de Planeación y Gestión (MIPG), <b><span class="cp">las entidades públicas deben establecer un proceso para la atención y servicio al ciudadano efectivo, que permita cumplir su propósito misional y atender oportunamente las diferentes peticiones de los ciudadanos en un escenario de equidad y pluralidad, en conformidad a las particularidades sociales.</span></b>
         p El proceso de atención al ciudadano es el conjunto de gestiones que representan el deber ser de las entidades públicas en sí, el resto de gestiones interinstitucionales son la ruta para cumplir el cometido, por tanto una entidad pública muy bien administrada y gestionada en su interior, no tiene impacto verdadero  si no cuenta con una atención al ciudadano que se beneficie y esté confiada y segura que la entidad responde oportuna y satisfactoriamente sus peticiones, o le garantice sus derechos; razón por la cual hay que entender cuál es el tipo de servicio que se demanda por parte de los ciudadanos, como debe ser el ciclo de atención, los canales, entre otros aspectos que se relacionan en adelante.
 
     TabsC.color-acento-contenido.mb-5
@@ -82,19 +82,19 @@
           .col-lg-8
             h3 Tipo de servicio
             p La atención y servicios al ciudadano en las entidades públicas se produce básicamente por cuatro razones o tipos de solicitud de servicio básicamente:
-            ul.lista-ul
+            ul.lista-ul.ms-4
               li 
-                i.fas.fa-circle
-                | ●	Para ser atendidos en requerimientos de información institucional o de servicios. 
+                i.fas.fa-circle.cac
+                | Para ser atendidos en requerimientos de información institucional o de servicios. 
               li 
-                i.fas.fa-circle
-                | ●	Por acceso a los productos o servicios que ofertan o prestan las entidades desde su actividad misional
+                i.fas.fa-circle.cac
+                | Por acceso a los productos o servicios que ofertan o prestan las entidades desde su actividad misional
               li 
-                i.fas.fa-circle
-                | ●	Para proponer o sugerir mejoras
+                i.fas.fa-circle.cac
+                | Para proponer o sugerir mejoras
               li 
-                i.fas.fa-circle
-                | ●	Para interponer quejas o reclamaciones relacionadas con la atención, calidad de la información o cualquier inconformidad que les impulse o les genere insatisfacción o indignación.
+                i.fas.fa-circle.cac
+                | Para interponer quejas o reclamaciones relacionadas con la atención, calidad de la información o cualquier inconformidad que les impulse o les genere insatisfacción o indignación.
           .col-lg-4
             figure
               img(src='@/assets/curso/t2/f8.png' alt='imagen relacionada')
@@ -107,15 +107,15 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/t2/f9.png' alt='imagen relacionada')
-        .row.align-items-end.justify-content-between.mb-4
+        .row.align-items-end.justify-content-between.mb-4.mt_6rem
           .col-lg-4
             figure
               img(src='@/assets/curso/t2/f10.svg' alt='imagen relacionada')
           .col-lg-7
             .cajon.color-secundario.p-4
-              p.mb-0 Las actividades de preparación suelen ser de naturaleza informativa, donde la entidad comunica los requisitos, términos y lineamientos del servicio ofrecido, lo cual puede darse por diferentes canales o medios, pero que le permiten al ciudadano interesado contar la información preliminar y el conocimiento protocolario suficiente para que la solicitud de atención no se vea limitada o afectada por incumplimientos de ingreso o registro.
+              p.mb-0 Las actividades de <b><span class="cp">preparación</span></b> suelen ser de naturaleza informativa, donde la entidad comunica los requisitos, términos y lineamientos del servicio ofrecido, lo cual puede darse por diferentes canales o medios, pero que le permiten al ciudadano interesado contar la información preliminar y el conocimiento protocolario suficiente para que la solicitud de atención no se vea limitada o afectada por incumplimientos de ingreso o registro.
         .cajon.color-acento-contenido.p-4
-          p.mb-0 Las actividades realizadas durante la fase de atención corresponden regularmente a la entidad y consisten en la prestación del servicio solicitado por el ciudadano. Las actividades de cierre en el ciclo de atención son de doble naturaleza porque, en primera instancia, pueden obedecer a una nueva etapa de atención, que se haga por el mismo punto de atención inicial, o uno diferente. En segunda instancia, una vez prestada la atención al usuario, y si no hay nueva etapa de atención o requerimiento, se realizará una evaluación del servicio brindado, que ofrecen una oportunidad para el mejoramiento de los procesos de la entidad, y se obtendrá información del grado de satisfacción del ciudadano o usuario que demandó el servicio. Como es un ciclo, este enfoque de atención se repetirá, obteniendo niveles de información que permiten identificar datos estadísticos que mejorarán los procesos, optimizarán la información, agilizarán por automatización, etc. Así mismo, un cierre adecuado de atención a un ciudadano optimizará la resolución de solicitudes de servicios similares mejorando los niveles de respuesta al ciudadano.
+          p.mb-0 Las actividades realizadas durante la <b><span class="cac">fase de atención</span></b> corresponden regularmente a la entidad y consisten en la prestación del servicio solicitado por el ciudadano. Las actividades de cierre en el ciclo de atención son de doble naturaleza porque, en primera instancia, pueden obedecer a una nueva etapa de atención, que se haga por el mismo punto de atención inicial, o uno diferente. En segunda instancia, una vez prestada la atención al usuario, y si no hay nueva etapa de atención o requerimiento, se realizará una evaluación del servicio brindado, que ofrecen una oportunidad para el mejoramiento de los procesos de la entidad, y se obtendrá información del grado de satisfacción del ciudadano o usuario que demandó el servicio. Como es un ciclo, este enfoque de atención se repetirá, obteniendo niveles de información que permiten identificar datos estadísticos que mejorarán los procesos, optimizarán la información, agilizarán por automatización, etc. Así mismo, un <b><span class="cac">cierre</span></b> adecuado de atención a un ciudadano optimizará la resolución de solicitudes de servicios similares mejorando los niveles de respuesta al ciudadano.
       .py-3.py-md-4(titulo="Puntos de contacto en el ciclo de atención")
         .row.align-items-center.mb-4
           .col-lg-8
@@ -166,7 +166,7 @@
         p El triángulo del servicio es un esquema creado por Karl Albrecht, experto y consultor en gerencia del servicio y es la manera en la que algunas empresas integran los momentos de verdad para mejorar la experiencia con los clientes, donde a partir de sus actores como la entidad pública y su administración, los ciudadanos y los servidores establecen cómo debe ser su postura o rol para el principio fundamental que es la confianza en cumplimiento de su propósito misional y de atención al usuario, estableciendo métricas y análisis desde los mecanismos de canalización de servicios y de participación en general para su optimización y mejora:
         .titulo-sexto.color-acento-contenido
           span Triángulo del servicio del principio de confianza
-        img(src='@/assets/curso/t2/f13.svg' alt='imagen relacionada')
+        img(src='@/assets/curso/t2/f13.svg' alt='imagen relacionada').mb-4
         figcaption Fuente: Departamento administrativo de la función pública, Rendición de Cuentas. (2016). https://www.funcionpublica.gov.co/documents/418537/506955/2016-09-26_Informe_rendicion_cuentas_2015_2016.pdf/c9dbfe38-5899-4167-9d45-18d2e75f0e6f?version=1.1&t=1475249023833&download=true diapositiva 10.
       .py-3.py-md-4(titulo="Participación ciudadana")
         .row.align-items-center
@@ -180,30 +180,30 @@
             figure
               img(src='@/assets/curso/t2/f14.png' alt='imagen relacionada')
         p.mb-5 De lo anterior, los niveles de participación ciudadana en la gestión pública se pueden categorizar por niveles, tal como se indica en la siguiente tabla, que desagrega la gestión estratégica en fases del ciclo:
-        .titulo-sexto.color-acento-contenido
-          span Ciclo de la gestión vs. niveles de la participación 
-        figure
-          img(src='@/assets/curso/t2/t2.svg' alt='Tabla relacionada')
+        .col-lg-9.mx-auto.mb-4
+          .titulo-sexto.color-acento-contenido
+            span Ciclo de la gestión vs. niveles de la participación 
+          img(src='@/assets/curso/t2/t2.svg' alt='Tabla relacionada').mb-4
           figcaption Nota: Función pública (s.f ) Imagen tomada de https://www.mincit.gov.co/servicio-ciudadano/informacion-para-el-ciudadano/mecanismos-de-participacion-ciudadana/participacion-en-la-formulacion-de-politicas/politica-de-participacion-ciudadana/2020-11-18-participacion-en-la-gestion.aspx Página 35
         p Entre las actividades que adelantan acciones promoviendo la participación ciudadana en la gestión pública se encuentran:
-        ul.lista-ul
+        ul.lista-ul.ms-4
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | La identificación de problemas y diagnóstico de necesidades.
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Planeación y/o presupuesto participativo.
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Formulación de proyectos, normas, políticas o programas de largo plazo.
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Colaboración para la innovación.
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Jornadas de rendición de cuentas.
           li 
-            i.fas.fa-circle
+            i.fas.fa-circle.cac
             | Control ciudadano y veedurías.
         .col-lg-8
           a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
