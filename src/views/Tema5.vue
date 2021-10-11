@@ -11,7 +11,7 @@
     .row.align-items-center.mb-5
       .col-lg-7
         p Las entidades públicas están en la obligación por ley de atender las diversas solicitudes o peticiones que los ciudadanos realizan, que pueden ser o no propiamente frente al producto o servicio básico de la institución, si no también pueden obedecer a aspectos de diferente índole, y a los que se les denomina regularmente <b><span class="cp">PQRSDF (Peticiones, Quejas, Reclamos, Solicitudes, Denuncias y Felicitaciones).</span></b> Es un derecho que nace desde la Constitución Política de 1991 en la cual se cita que “toda persona tiene derecho a presentar peticiones respetuosas a las autoridades por motivos de interés general o particular y a obtener pronta resolución” y “tienen derecho a acceder a los documentos públicos salvo los casos que establezca la ley”. Así mismo, existen otros instrumentos de normativos de ley y de decretos, que complementan este derecho social que impone la constitución, los cuales se pueden observar en los criterios normativos para PQRSDF, donde se detallan los aportes de cada uno de estos instrumentos legales como posibilidades de los ciudadanos: 
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/6. Anexo-CRITERIOS NORMATIVOS PARA PQRSD.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

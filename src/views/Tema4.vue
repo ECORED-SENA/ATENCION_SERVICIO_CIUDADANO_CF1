@@ -152,7 +152,7 @@
             p.px-4 Este proceso descrito, debe ser plenamente ajustado al modelo integrado de planeación y gestión de la empresa, ya que demandará recursos adicionales de diferentes instancias: económicos, de talento, tecnológicos, etc., además no son aspectos meramente relacionados para el personal que tiene contacto con los usuarios o ciudadanos, sino que atañe a toda la entidad.
             p.px-4 Finalmente, para efectos de complementar como se elaboran los protocolos de servicio por cada canal, puede utilizar el siguiente recurso:
             .col-lg-6
-              a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.anexo.mb-4(:href="obtenerLink('/downloads/5. Anexo-Protocolos de Servicio al Ciudadano 2013.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto

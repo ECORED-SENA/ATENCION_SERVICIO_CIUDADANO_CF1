@@ -631,7 +631,7 @@
                   h3.mb-1 Norma Técnica de Calidad en la Gestión Pública - NTCGP 1000:2009
                   p.mb-0 Dado lo anterior puede acceder y revisar de forma detallada la norma de calidad:
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/1_Anexo-NORMA TÉCNICA DE CALIDAD EN LA GESTIÓN PÚBLICA-NTC GP1000-2009.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

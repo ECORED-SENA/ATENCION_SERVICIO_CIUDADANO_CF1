@@ -206,7 +206,7 @@
             i.fas.fa-circle.cac
             | Control ciudadano y veedurías.
         .col-lg-8
-          a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          a.anexo.mb-4(:href="obtenerLink('/downloads/2. Anexo-2021-03-23_Politica_servicio_al_ciudadano_actualizada.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
@@ -227,13 +227,13 @@
         p Para clarificar y ampliar la configuración de un protocolo de servicios por tipo de canal, en conformidad a cada instancia del servicio antes de la atención, durante la atención o prestación del servicio y posterior a la prestación del servicio, se recomienda hacer la lectura y seguimiento de los casos de la Superintendencia de Transporte y de la Escuela de Administración pública ESAP:
         .row.align-items-center
           .col-lg-4
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/3. Anexo-PROTOCOLO-ATENCION-AL-CIUDADANO-Superintendencia de transporte.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p <b>Anexo.</b> Protocolo De Servicio Al Ciudadano De La Superintendencia De Transporte
           .col-lg-4
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/4. Anexo-PROTOCOLOS_SERVICIO-AL_CIUDADANO_ESAP.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
