@@ -10,83 +10,117 @@
 
     p.mb-5 El seguimiento y verificación de respuesta es parte del proceso que deben realizar las organizaciones frente a los requerimientos recibidos por parte de los usuarios o ciudadanos, para tal caso se debe recibir, tramitar y resolver las peticiones que la ciudadanía formule y se relacionan con el cumplimiento de la misión de la entidad con oportunidad, calidad y transparencia.
     
-    .row.mb-5
-      .col-lg-6
-        LineaTiempoD.color-acento-contenido
-          .row(numero="1" titulo="")
-            .col-lg-9
-              p Gestionar en su propio sistema de gestión documental, las peticiones desde su recibo hasta su respuesta, incluyendo los controles y la generación de reportes respectivos 
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f1.svg' alt='icono relacionado')
-          .row(numero="2" titulo="")
-            .col-lg-9
-              p Recibir, tipificar y asignar la solicitud en el Sistema de Gestión Documental de la entidad, evaluar la petición y asignar a un funcionario de acuerdo con su competencia. Tener en cuenta una metodología diferenciada para las peticiones escritas, verbales o anónimas. 
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f2.svg' alt='icono relacionado')
-          .row(numero="3" titulo="")
-            .col-lg-9
-              p Garantizar que los datos de toda la ciudadanía queden en el sistema después de haber sido inscritos por primera y única vez, cuando no obedezcan a peticiones anónimas, de tal manera que todas las interacciones subsecuentes, no generen reprocesos para la ciudadanía en el suministro de su información personal. 
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f3.svg' alt='icono relacionado')
-          .row(numero="4" titulo="")
-            .col-lg-9
-              p Verificar la competencia de la dependencia sobre la petición, queja, reclamo, sugerencia o denuncia, de acuerdo con la temática. Si no es competencia de la entidad, se deberá trasladar la petición a la Entidad competente dentro de los cinco (5) días siguientes al recibo de la comunicación y enviar copia al interesado. 
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f4.svg' alt='icono relacionado')
-          .row(numero="5" titulo="")
-            .col-lg-9
-              p Recopilar y analizar información relacionada con la solicitud, preparar y proyectar respuesta teniendo en cuenta el tipo de petición y los tiempos de vencimiento para dar respuesta a la petición en términos de oportunidad, eficiencia, eficacia y calidad. 
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f5.svg' alt='icono relacionado')
-          .row(numero="6" titulo="")
-            .col-lg-9
-              p Comprobar las peticiones a cargo de la dependencia y emitir respuesta acorde con los tiempos establecidos. 
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f6.svg' alt='icono relacionado')
-      .col-lg-6
-        LineaTiempoD.color-acento-contenido
-          .row(numero="7" titulo="")
-            .col-lg-9
-              p Realizar seguimiento a las respuestas a cargo de cada dependencia de la entidad. 
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f7.svg' alt='icono relacionado')
-          .row(numero="8" titulo="")
-            .col-lg-9
-              p Revisar en el sistema de gestión documental todas las peticiones radicadas y verificar que se haya emitido respuesta. 
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f8.svg' alt='icono relacionado')
-          .row(numero="9" titulo="")
-            .col-lg-9
-              p Examinar y efectuar seguimiento de las solicitudes que estén próximas al vencimiento de los términos para emisión de respuesta, según el tipo de solicitud. 
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f9.svg' alt='icono relacionado')
-          .row(numero="10" titulo="")
-            .col-lg-9
-              p Preparar y presentar informes de seguimiento de todas las peticiones a cargo del área responsable de liderar la gestión de servicio a la ciudadanía para su posterior publicación en página web. 
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f10.svg' alt='icono relacionado')
-          .row(numero="11" titulo="")
-            .col-lg-9
-              p Proyectar informes periódicos de las peticiones para la revisión de la oficina de Secretaría General, la dirección institucional o los entes externos de control, así como para informes de rendición de cuentas. 
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f11.svg' alt='icono relacionado')
-          .row(numero="12" titulo="")
-            .col-lg-9
-              p Presentar en el Comité de Desarrollo Administrativo, el informe periódico de peticiones.
-            .col-lg-3
-              figure
-                img(src='@/assets/curso/t3/f12.svg' alt='icono relacionado')
+    #carouselExampleIndicators.carousel.slide.mb-5(data-bs-ride='carousel')
+      .carousel-indicators
+        button.active(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='0' aria-current='true' aria-label='Slide 1')
+        button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='1' aria-label='Slide 2')
+        button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='2' aria-label='Slide 3')
+        button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='3' aria-label='Slide 4')
+        button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='4' aria-label='Slide 5')
+        button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='5' aria-label='Slide 6')
+      .carousel-inner
+        .carousel-item.active
+          .row.align-items-center.justify-content-center
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p <b>Gestionar</b> en su propio sistema de gestión documental, las peticiones desde su recibo hasta su respuesta, incluyendo los controles y la generación de reportes respectivos 
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f1.svg' alt='icono relacionado')
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p <b>Recibir, tipificar y asignar</b> la solicitud en el Sistema de Gestión Documental de la entidad, evaluar la petición y asignar a un funcionario de acuerdo con su competencia. Tener en cuenta una metodología diferenciada para las peticiones escritas, verbales o anónimas. 
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f2.svg' alt='icono relacionado')
+        .carousel-item
+          .row.align-items-center.justify-content-center
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p Garantizar que los datos de toda la ciudadanía queden en el sistema después de haber sido inscritos por primera y única vez, cuando no obedezcan a peticiones anónimas, de tal manera que todas las interacciones subsecuentes, no generen reprocesos para la ciudadanía en el suministro de su información personal. 
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f3.svg' alt='icono relacionado')
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p <b>Verificar</b> la competencia de la dependencia sobre la petición, queja, reclamo, sugerencia o denuncia, de acuerdo con la temática. Si no es competencia de la entidad, se deberá trasladar la petición a la Entidad competente dentro de los cinco (5) días siguientes al recibo de la comunicación y enviar copia al interesado. 
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f4.svg' alt='icono relacionado')
+        .carousel-item
+          .row.align-items-center.justify-content-center
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p <b>Recopilar y analizar</b> información relacionada con la solicitud, preparar y proyectar respuesta teniendo en cuenta el tipo de petición y los tiempos de vencimiento para dar respuesta a la petición en términos de oportunidad, eficiencia, eficacia y calidad. 
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f5.svg' alt='icono relacionado')
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p <b>Comprobar</b> las peticiones a cargo de la dependencia y emitir respuesta acorde con los tiempos establecidos. 
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f6.svg' alt='icono relacionado')
+        .carousel-item
+          .row.align-items-center.justify-content-center
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p <b>Realizar</b> seguimiento a las respuestas a cargo de cada dependencia de la entidad. 
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f7.svg' alt='icono relacionado')
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p Revisar en el sistema de gestión documental todas las peticiones radicadas y verificar que se haya emitido respuesta. 
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f8.svg' alt='icono relacionado')
+        .carousel-item
+          .row.align-items-center.justify-content-center
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p <b>Examinar</b> y efectuar seguimiento de las solicitudes que estén próximas al vencimiento de los términos para emisión de respuesta, según el tipo de solicitud. 
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f9.svg' alt='icono relacionado')
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p <b>Preparar</b> y presentar informes de seguimiento de todas las peticiones a cargo del área responsable de liderar la gestión de servicio a la ciudadanía para su posterior publicación en página <em>web</em>. 
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f10.svg' alt='icono relacionado')
+        .carousel-item
+          .row.align-items-center.justify-content-center
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p <b>Proyectar</b> informes periódicos de las peticiones para la revisión de la oficina de Secretaría General, la dirección institucional o los entes externos de control, así como para informes de rendición de cuentas. 
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f11.svg' alt='icono relacionado')
+            .col-lg-5.col-md-8
+              .row.align-items-center.justify-content-center
+                .col
+                  p <b>Presentar</b> en el Comité de Desarrollo Administrativo, el informe periódico de peticiones.
+                .col-lg-4.col-md-3
+                  figure
+                    img(src='@/assets/curso/t3/f12.svg' alt='icono relacionado')
+      button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='prev')
+        span.carousel-control-prev-icon(aria-hidden='true')
+        span.visually-hidden Previous
+      button.carousel-control-next(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='next')
+        span.carousel-control-next-icon(aria-hidden='true')
+        span.visually-hidden Next
 
     .contenedor.bg6
       .row.justify-content-center.align-items-center.tarjeta.boxShadow.mb-5
@@ -108,7 +142,7 @@
 
     .contenedor.bg7.ofVisible
       .col-lg-7.mx-auto
-        .row.bg3.traslape.h160px.align-items-center
+        .row.bg3-1.traslape.h160px.align-items-center
           .col-md-1
             figure
               img(src='@/assets/curso/t3/e1.svg' alt='1' style='width:74px')
@@ -117,7 +151,7 @@
 
       .row.align-items-center
         .col-lg-8
-          h3 Evaluación y medición de la gestión institucional e implementación de la política.
+          h3 Evaluación y medición de la gestión institucional e implementación de la política
           .cajon-b.color-acento-contenido.p-4.mb-0
             p.mb-0 En primer lugar, es necesario establecer indicadores de producto que permitan hacer seguimiento a cada una de las acciones definidas anualmente en la planeación institucional, por ejemplo: protocolos implementados, canales con ajustes razonables implementados de acuerdo con la NTC 6047. Este es el esquema más sencillo de seguimiento y evaluación y a la vez, el más integral, teniendo en cuenta que la planeación debe contemplar acciones que respondan a la caracterización de la población objetiva, al diagnóstico de la implementación de la política, a los resultados de los ejercicios de co-creación con ciudadanos y a las mediciones efectuadas. 
           .cajon-c.color-acento-contenido.p-4
@@ -147,7 +181,7 @@
 
     .contenedor.bg8.ofVisible
       .col-lg-7.mx-auto
-        .row.bg3.traslape.h160px.align-items-center
+        .row.bg3-1.traslape.h160px.align-items-center
           .col-md-1
             figure
               img(src='@/assets/curso/t3/e2.svg' alt='1')

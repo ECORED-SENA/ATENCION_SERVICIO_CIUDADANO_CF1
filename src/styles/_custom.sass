@@ -83,6 +83,12 @@ $gris-claro: #EDF5F8
   background-repeat: no-repeat
   background-size: 100% 100%
 
+.bg3-1
+  background-image: url('../assets/curso/bg3-1.png')
+  background-position: center center
+  background-repeat: no-repeat
+  background-size: 100% 100%
+
 .bg3-5
   background-image: url('../assets/curso/bg3-5.png')
   background-repeat: no-repeat
@@ -198,6 +204,11 @@ figure
     figcaption
       margin-bottom: 1.5rem
 
+@media screen and ( max-width: 767px )
+  .col-lg-5.col-md-8
+    padding: 0 100px
+  
+
 @media screen and (min-width: 991px)
   .traslape 
     margin: -130px auto 35px
@@ -213,3 +224,30 @@ figure
 
 .ofVisible
   overflow: visible
+
+#carouselExampleIndicators
+  .row
+    //height: 200px
+    padding: 2rem 0 1.5rem 0
+    .col-lg-1
+      &--borde
+      border-right: $color-secundario dashed 2px
+      margin: 1rem
+
+.carousel-inner
+  background-color: $primario-claro
+  border-radius: 1rem
+
+button.carousel-control-next, button.carousel-control-prev
+  background-color: $color-acento-contenido !important
+  opacity: 1 !important
+  width: 70px
+
+button.carousel-control-next
+  border-radius: 0 1rem 1rem 0
+  
+button.carousel-control-prev
+  border-radius: 1rem 0 0 1rem
+
+.carousel-indicators
+  display: none

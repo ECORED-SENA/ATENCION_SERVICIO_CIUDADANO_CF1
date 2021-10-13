@@ -501,7 +501,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/8ppIwiYP9Bg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador
     #t_1_5.titulo-segundo
@@ -517,7 +517,7 @@
     .row.align-items-center.justify-content-center.bg3.p-4
       .col-lg-3
         figure
-          img(src='@/assets/curso/t1/f54.png' alt='imagen relacionada')
+          img(src='@/assets/curso/t1/f54.svg' alt='imagen relacionada')
       .col-lg-7
         p.mb-0 El Decreto 2623 de 2009, por el cual se crea el Sistema Nacional de Servicio al Ciudadano emitido por la Presidencia de la República, define:… <b><span class="cac">”El Sistema Nacional de Servicio al Ciudadano es el conjunto de políticas, orientaciones, normas, actividades, recursos, programas, organismos, herramientas y entidades públicas y privadas que cumplen funciones públicas,</span></b> encaminados a la generación de estrategias tendientes a incrementar la confianza en el Estado y a mejorar la relación cotidiana entre el ciudadano y la administración Pública; se constituye como instancia de coordinación de la calidad y la excelencia en el servicio al ciudadano en la Administración Pública del Orden Nacional. El Sistema Nacional de Servicio al Ciudadano será presidido por el Presidente de la República, la ejecución estará a cargo de las entidades de la Administración Pública del Orden Nacional y la evaluación y seguimiento corresponderá al Departamento Nacional de Planeación en coordinación con el Departamento Administrativo de la Función Pública”. 
     .contenedor.bg5

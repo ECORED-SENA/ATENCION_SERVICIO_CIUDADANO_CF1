@@ -45,7 +45,7 @@
         span Dimensiones del modelo integrado
       img(src='@/assets/curso/t2/f5.svg' alt='Dimensiones del modelo integrado').mb-4
       figcaption.mb-4 Nota: Departamento Administrativo de la Función Pública, 2017 (Imagen tomada de Manual Operativo del Modelo Integrado de Planeación y Gestión, página 16)
-      a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+      a.anexo.mb-4(:href="obtenerLink('/downloads/Dimensiones_modelo_integrado.pdf')" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-pdf.svg")
         .anexo__texto
@@ -135,7 +135,7 @@
           p.mb-0 Es de vital importancia identificar en el proceso de atención al usuario, cuáles son los puntos de contacto que generan momentos de verdad negativos, ya que son los generadores de insatisfacción y por ende serán los que son sujetos de intervenir en mejora continua, o revaluar su idoneidad en el proceso.
       .py-3.py-md-4(titulo="Canales de atención al ciudadano")
         h3 Canales de atención al ciudadano
-        p.mb-5 Constituyen los diferentes medios a través de los cuales, el ciudadano opta por canalizar su atención de servicio, y a su vez puede encontrar diversos o nuevos puntos de contacto
+        p.mb-5 Constituyen los diferentes medios a través de los cuales, el ciudadano opta por canalizar su atención de servicio, y a su vez puede encontrar diversos o nuevos puntos de contacto.
         .col-lg-9.mx-auto
           .tabla-b.color-acento-contenido.mb-5
             table
@@ -153,13 +153,13 @@
                 td Hace uso de texto sobre un medio físico como el papel. Ejemplo: correo postal, radicación de cartas, volantes, folletos, prensa, recibos, comprobantes del servicio.
               tr
                 td Telefónico
-                td Aprovecha las funcionalidades de voz y texto presentes en la telefonía fija y móvil. Ejemplo: call centers, contact centers, PBX, Sistemas de Respuesta de Voz Interactiva (Interactive Voice Response -IVR), sistemas de mensajes de texto SMS y MMS.
+                td Aprovecha las funcionalidades de voz y texto presentes en la telefonía fija y móvil. Ejemplo: <em>call centers</em>, <em>contact centers</em>, PBX, Sistemas de Respuesta de Voz Interactiva (<em>Interactive Voice Response</em> -IVR), sistemas de mensajes de texto SMS y MMS.
               tr
                 td Audiovisual
                 td Utiliza las ventajas comunicativas de la unión de sonido e imagen, con posibilidades de interactividad en el caso de la televisión digital. Ejemplo: videos, videollamada, mensajes de voz, programas de televisión, pautas comerciales, cortometrajes de cine.
               tr
                 td Electrónico
-                td Particularmente aprovechando Internet. Ejemplo: correo electrónico, mensajería instantánea (chat), foros, blogs, portales web, aplicaciones móviles, medios sociales.
+                td Particularmente aprovechando Internet. Ejemplo: correo electrónico, mensajería instantánea (chat), foros, <em>blogs</em>, portales <em>web</em>, aplicaciones móviles, medios sociales.
           p Las organizaciones públicas en la actualidad, soportadas en un mayor impacto y alcance para la prestación al ciudadano, bien sea urbano o rural, optan por ajustar diversos canales y por ende tipos de contacto para atender al usuario o ciudadano, sin que ello implique detrimento de recursos, sino por el contrario, facilita la gestión en la atención.
       .py-3.py-md-4(titulo="Triángulo del servicio")
         h3 Triángulo del servicio
@@ -223,7 +223,7 @@
               img(src='@/assets/curso/t2/f15.png' alt='Tabla relacionada')
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/4EabquNz0ME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         p Para clarificar y ampliar la configuración de un protocolo de servicios por tipo de canal, en conformidad a cada instancia del servicio antes de la atención, durante la atención o prestación del servicio y posterior a la prestación del servicio, se recomienda hacer la lectura y seguimiento de los casos de la Superintendencia de Transporte y de la Escuela de Administración pública ESAP:
         .row.align-items-center
           .col-lg-4

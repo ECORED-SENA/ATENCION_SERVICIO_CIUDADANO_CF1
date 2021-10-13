@@ -15,7 +15,7 @@ export default {
       },
       {
         nombreRuta: 'introduccion',
-        icono: 'fas fa-play',
+        icono: 'fas fa-info',
         titulo: 'Introducción',
         desarrolloContenidos: true,
       },
@@ -41,7 +41,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Entidaes públicas',
+            titulo: 'Entidades públicas',
             hash: 't_1_3',
           },
           {
@@ -283,14 +283,14 @@ export default {
       texto:
         'Departamento nacional de planeación (diciembre de 2020). Actualización de lineamientos de la política pública de servicio al ciudadano.',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://www.funcionpublica.gov.co/documents/28587410/38139874/2021-03-23_Politica_servicio_al_ciudadano_actualizada.pdf/a8f37301-0e89-d6da-9708-ce72772cde6f?t=1619450714666#:~:text=La%20Pol%C3%ADtica%20de%20Servicio%20al%20Ciudadano%20se%20define%20entonces%20como,de%20relacionamiento%20con%20el%20Estado.&text=protecci%C3%B3n%20 constitucional.',
     },
     {
       texto:
         'Departamento Administrativo de la Función Pública (s.f). Modelo de servicio al ciudadano del departamento administrativo de la Función pública – EVA (s.f)',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://www.funcionpublica.gov.co/documents/418537/506977/Modelo+de+Servicio+al+Ciudadano.pdf/cb387d66-6f52-4568-b075-c492ffa6a8c1?version=1.0',
     },
   ],
@@ -350,18 +350,41 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
-      /*{
-        nombre: 'Nombre',
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura- Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Carolina Tamayo Lopez ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura- Regional Santander',
+      },
+      {
+        nombre: 'Víctor Raúl Cárdenas Cáceres      ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura- Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura- Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },*/
+      },
     ],
     gestoresRepositorio: [
       {

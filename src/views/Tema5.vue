@@ -53,8 +53,7 @@
           td <strong>De informaci&oacute;n</strong>: buscan el suministro de informaci&oacute;n sobre documentos, tr&aacute;mites, servicios o de asuntos propios o que ata&ntilde;en a la entidad.
           td 10 d&iacute;as
         tr
-          td <strong>De consulta</strong>: para que la entidad p&uacute;blica manifieste y emita concepto o interpretaci&oacute;n sobre aspectos
-            p relacionados con sus funciones y responsabilidad social.
+          td <strong>De consulta</strong>: para que la entidad p&uacute;blica manifieste y emita concepto o interpretaci&oacute;n sobre aspectos relacionados con sus funciones y responsabilidad social.
           td 30 d&iacute;as
         tr
           td <strong>Entre autoridades</strong>: son las provenientes de otras entidades del estado
@@ -66,7 +65,7 @@
           td <strong>Oscura:</strong> son aquellas donde no se comprende el objeto de la solicitud, por tanto, se debe devolver al interesado para que la corrija o aclare en diez (10) d&iacute;as siguientes a su radicado, de lo contrario se toma como desistimiento.
           td 10 d&iacute;as
         tr
-          td <strong>An&aacute;logas:</strong> consistente cuando la entidad identifica m&aacute;s de diez (10) solicitudes que &nbsp; peticiones semejantes en su objeto. La entidad podr&aacute; dar &uacute;nica respuesta global&nbsp; &nbsp; diario oficial o de amplia circulaci&oacute;n, en p&aacute;gina &nbsp; oficial y entregando copia a cada uno que solicit&nbsp;.
+          td <strong>An&aacute;logas:</strong> consistente cuando la entidad identifica m&aacute;s de diez (10) solicitudes que &nbsp; peticiones semejantes en su objeto. La entidad podr&aacute; dar &uacute;nica respuesta global&nbsp; &nbsp; diario oficial o de amplia circulaci&oacute;n, en p&aacute;gina &nbsp; oficial y entregando copia a cada uno que solicit&oacute;.
           td 10 d&iacute;as
         tr
           td <strong>Preferentes y prioritarias</strong>: en el primer caso cuando son interpuestas por &nbsp; o adultos mayores, y prioritarias cuando obedecen a situaciones que comprometen la vida y/o representan situaciones de peligro o riesgo.

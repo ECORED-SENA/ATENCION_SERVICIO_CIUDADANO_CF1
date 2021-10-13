@@ -23,7 +23,7 @@
 
     .row.align-items-center
       .col-lg-5
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Reconocimiento_propósito institucional_vs._misional_servicios_entidad.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -36,57 +36,30 @@
           p Si es empresa de las ramas del poder, están obligadas a certificarse en la NTC GP 1000 2009, mientras que si son empresas de función pública pueden aplicar y certificarse en ISO 9001, sin entrar en contradicciones, migrando a la NTC 1000 GP de ser necesario.
         p Dentro de este proceso de reconocimiento se tiene que revisar si cuenta con un modelo de atención y servicio al ciudadano, si está ajustado a la normatividad, si cuenta con un protocolo de servicio orientado a todos los canales con que opera, o es necesario actualizar el manual de atención y servicio. En general si la entidad da respuesta a lo establecido desde el Sistema Nacional de Servicio al Ciudadano, aplicando e integrado al MIPG, puede realizarse una validación como se muestra en las siguientes figuras: 
 
-    .titulo-sexto.color-acento-contenido
-      span Proceso y población a caracterizar
-    .row.mb-5
-      .col-lg-3
-        .tarjeta-avatar
-          img(src='@/assets/curso/t4/f4.svg' alt='1')
-          .fcpm.boxShadow
-            .p-5
-            .px-4.py-5.text-center
-              p Determine el grupo de individuos beneficiados directa o indirectamente de los productos o servicios que oferta entidad pública.
-      .col-lg-3
-        .tarjeta-avatar
-          img(src='@/assets/curso/t4/f5.svg' alt='2')
-          .fcpm.boxShadow
-            .p-5
-            .px-4.py-5.text-center
-              p Establezca el conjunto de características descriptivas de los individuos identificados en el punto anterior: edad, género, estrato, nivel educativo, etnia religión, etc. Y priorice.
-      .col-lg-3
-        .tarjeta-avatar
-          img(src='@/assets/curso/t4/f6.svg' alt='3')
-          .fcpm.boxShadow
-            .p-5
-            .px-4.py-5.text-center
-              p Identifique fuentes de información: bases de datos de usuarios, PQR, ventanilla de información, encuestas, etc.
-      .col-lg-3
-        .tarjeta-avatar
-          img(src='@/assets/curso/t4/f7.svg' alt='4')
-          .fcpm.boxShadow
-            .p-5
-            .px-4.py-5.text-center
-              p Estructure bases de datos que faciliten el análisis de datos, cruce y filtre la información, identifique principales y recurrentes actores de la empresa y fije prioridades.
-
+    .col-lg-8.mx-auto.mb-5
+      .titulo-sexto.color-acento-contenido
+        span Proceso y población a caracterizar
+      img(src='@/assets/curso/t4/f25.svg' alt='Proceso y población a caracterizar')
+    
     .col-lg-8.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
         span Pasos del proceso de caracterización de usuarios para la atención y servicio
       .row.align-items-center.justify-content-center.mb-4
         .col-lg-4.mb-4
           figure
-            img(src='@/assets/curso/t4/f8.svg' alt='1')
+            img(src='@/assets/curso/t4/f9.svg' alt='1')
         .col-lg-4.mb-4
           figure
-            img(src='@/assets/curso/t4/f9.svg' alt='2')
+            img(src='@/assets/curso/t4/f10.svg' alt='2')
         .col-lg-4.mb-4
           figure
-            img(src='@/assets/curso/t4/f10.svg' alt='3')
+            img(src='@/assets/curso/t4/f11.svg' alt='3')
         .col-lg-4.mb-4
           figure
-            img(src='@/assets/curso/t4/f11.svg' alt='4')
+            img(src='@/assets/curso/t4/f12.svg' alt='4')
         .col-lg-4.mb-4
           figure
-            img(src='@/assets/curso/t4/f12.svg' alt='5')
+            img(src='@/assets/curso/t4/f8.svg' alt='5')
         .col-lg-4.mb-4
           figure
             img(src='@/assets/curso/t4/f13.svg' alt='6')
@@ -135,7 +108,7 @@
             figure
               img(src='@/assets/curso/t4/f22.svg' alt='icono relacionado' width='123px').mx-auto
       div(titulo="●	Ajuste o definición del protocolo de servicio")
-        .row.align-items-center
+        .row.align-items-center.mb-5
           .col-lg-8
             .cajon-b.color-secundario.p-4
               p Una vez realizado el reconocimiento de la actividad fundamental de la entidad, para la cual se creó como entidad pública, su declaración de propósito misional, visión institucional y demás aspectos de promulgación, difusión y atención vigentes, como son los canales y puntos de contacto, es necesario hacer una revisión y ajuste al protocolo de servicio vigente, identificando su validez, alcance y pluralidad, de tal manera que permita establecer si se acepta y facilita la atención y servicio al ciudadano frente al acceso de los servicios propios de la entidad, y demás formas de vinculación como son PQRS, participación en proyectos de formulación democrática, jornadas de rendición de cuentas, entre otros.
@@ -145,18 +118,22 @@
               img(src='@/assets/curso/t4/f23.png' alt='imagen relacionada')
           .col-lg-4
             figure
-              img(src='@/assets/curso/t4/f23.png' alt='imagen relacionada')
+              img(src='@/assets/curso/t4/f24.png' alt='imagen relacionada')
           .col-lg-8
             .cajon-b.color-casi-blanco.p-4
               p.mb-0 Así mismo, se deben revisar el conjunto de actuaciones previas, durante y posteriores al servicio, que se mencionaron anteriormente, para identificar su eficacia, y por ende, desarrollar los ajustes que minimicen los riesgos y desviaciones en la prestación del servicio, y que, en conformidad al grupo de canales y puntos de contactos redefinidos para la atención al ciudadano, se cuente con la capacitación, entrenamiento y habilidad suficientes al momento de atender a los ciudadanos.
             p.px-4 Este proceso descrito, debe ser plenamente ajustado al modelo integrado de planeación y gestión de la empresa, ya que demandará recursos adicionales de diferentes instancias: económicos, de talento, tecnológicos, etc., además no son aspectos meramente relacionados para el personal que tiene contacto con los usuarios o ciudadanos, sino que atañe a toda la entidad.
-            p.px-4 Finalmente, para efectos de complementar como se elaboran los protocolos de servicio por cada canal, puede utilizar el siguiente recurso:
-            .col-lg-6
-              a.anexo.mb-4(:href="obtenerLink('/downloads/5. Anexo-Protocolos de Servicio al Ciudadano 2013.pdf')" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  p <b>Anexo.</b> DNP - Protocolos de Servicio al Ciudadano (2013).
+        .col-lg-8.mx-auto.mb-4
+          .titulo-sexto.color-acento-contenido
+            span Proceso para el reconocimiento y actualización del protocolo de servicio en una entidad pública
+          img(src='@/assets/curso/t4/f26.svg' alt='imagen relacionada')
+        p.px-4 Finalmente, para efectos de complementar como se elaboran los protocolos de servicio por cada canal, puede utilizar el siguiente recurso:
+        .col-lg-6
+          a.anexo.mb-4(:href="obtenerLink('/downloads/5. Anexo-Protocolos de Servicio al Ciudadano 2013.pdf')" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-pdf.svg")
+            .anexo__texto
+              p <b>Anexo.</b> DNP - Protocolos de Servicio al Ciudadano (2013).
 
 </template>
 

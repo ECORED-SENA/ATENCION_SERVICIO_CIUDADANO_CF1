@@ -5,9 +5,9 @@
     .titulo-principal
       .titulo-principal__numero
         span 6
-      h1 Verificación de servicio y rendición de cuentas
+      h1.mb-0 Verificación de servicio y rendición de cuentas
 
-    .contenedor.bg8
+    .contenedor.bg8.mb-5
       .row.align-items-center
         .col-lg-6
           p Dentro del sistema de administración y gestión, en el módulo implementado para el registro y administración de los PQRSDF en atención y servicio al ciudadano, es imperativo que cada periodo mensual, bimestral, trimestral, semestral y anual, como la entidad lo necesite, se lleven las estadísticas de atención frente al número de solicitudes PQRSDF recibidas, tramitadas, en curso, cuántas de cada tipo: P=?, Q=?, R=?, S=?, D=?,F=?, las cuales serán acumulativas y servirán para la elaboración del informe de gestión de la institución.
@@ -55,7 +55,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mBRcoqS6zlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p Las jornadas de rendición de cuentas no necesariamente se dan en una sola ocasión o punto, son un conjunto de actuaciones que facilitan el diálogo interactivo con la ciudadanía o comunidad interesada en los aspectos de gestión de la entidad.
 
 </template>
