@@ -19,7 +19,7 @@
     .titulo-sexto.color-acento-contenido
       span Reconocimiento del propósito institucional vs. el misional de servicios de la entidad
     img(src='@/assets/curso/t4/f2.svg' alt='Reconocimiento del propósito institucional vs. el misional de servicios de la entidad').mb-4
-    figcaption.mb-5 Nota: Modelo integrado de gestión (2006). Taller 1, página 22. https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_-_direccionamiento_estrategico_y_planeacion.pdf 
+    figcaption.mb-5 Nota: <a href="https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_-_direccionamiento_estrategico_y_planeacion.pdf" target="_blank">Modelo integrado de gestión (2006). Taller 1, página 22.</a>
 
     .row.align-items-center
       .col-lg-5
@@ -63,14 +63,14 @@
         .col-lg-4.mb-4
           figure
             img(src='@/assets/curso/t4/f13.svg' alt='6')
-      figcaption Fuente: Departamento administrativo de la función pública. 2018- Modelo integrado de planeación y gestión. Página 18. https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_-_direccionamiento_estrategico_y_planeacion.pdf 
+      figcaption Fuente: <a href="https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_-_direccionamiento_estrategico_y_planeacion.pdf" target="_blank">Departamento administrativo de la función pública. 2018- Modelo integrado de planeación y gestión. Página 18.</a>
 
     .col-lg-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
         span Ejemplo de definición de variables para caracterización
       figure
         img(src='@/assets/curso/t4/f14.svg' alt='').mb-4
-        figcaption Fuente: Departamento administrativo de la función pública. (2018). Modelo integrado de planeación y gestión. página 30. https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_-_direccionamiento_estrategico_y_planeacion.pdf 
+        figcaption Fuente: <a href="https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_-_direccionamiento_estrategico_y_planeacion.pdf" target="_blank">Departamento administrativo de la función pública. (2018). Modelo integrado de planeación y gestión. página 30.</a>
 
     .row.align-items-center.mb-5
       .col-lg-7

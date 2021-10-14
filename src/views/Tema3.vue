@@ -177,7 +177,7 @@
           span Medición de la gestión institucional
         figure
           img(src='@/assets/curso/t3/f17.svg' alt='Medición de la gestión institucional').mb-4
-          figcaption.mb-5 Nota: Alcaldía de Rionegro 2020, página 4 https://rionegro.gov.co/wp-content/uploads/2021/02/INFORME-DE-EVALUACION-Y-SEGUIMIENTO-PQRS-SEMESTRE.pdf
+          figcaption.mb-5 Nota: <a href="https://rionegro.gov.co/wp-content/uploads/2021/02/INFORME-DE-EVALUACION-Y-SEGUIMIENTO-PQRS-SEMESTRE.pdf" target="_blank">Alcaldía de Rionegro 2020, página 4</a>
 
     .contenedor.bg8.ofVisible
       .col-lg-7.mx-auto
@@ -210,7 +210,7 @@
           span Medición de experiencias de servicio
         figure
           img(src='@/assets/curso/t3/f20.svg' alt='Medición de experiencias de servicio')
-          figcaption Nota: Alcaldía de Rionegro 2020- Rendición de cuentas, página 5. https://rionegro.gov.co/wp-content/uploads/2021/02/INFORME-DE-EVALUACION-Y-SEGUIMIENTO-PQRS-SEMESTRE.pdf 
+          figcaption Nota: <a href="https://rionegro.gov.co/wp-content/uploads/2021/02/INFORME-DE-EVALUACION-Y-SEGUIMIENTO-PQRS-SEMESTRE.pdf" target="_blank">Alcaldía de Rionegro 2020- Rendición de cuentas, página 5.</a>
 
       p.mb-5 Los niveles de atención y servicio a los ciudadanos deben dejar evidencias escritas de respuesta o solución a sus peticiones, las cuales deben allegarse por alguno de los canales establecidos, preferiblemente personal escrito. En caso de sugerencias, se debe notificar el recibido agradeciendo por la percepción para el mejoramiento, así mismo se debe llevar el récord de sugerencias planteadas por los ciudadanos, y definir los aspectos a mejorar dentro del plan de mejoramiento. Este proceder institucional permite hacer un cierre formal de la petición.
       .row.align-items-center

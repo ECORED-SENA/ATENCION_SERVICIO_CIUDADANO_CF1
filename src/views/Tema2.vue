@@ -167,7 +167,7 @@
         .titulo-sexto.color-acento-contenido
           span Triángulo del servicio del principio de confianza
         img(src='@/assets/curso/t2/f13.svg' alt='imagen relacionada').mb-4
-        figcaption Fuente: Departamento administrativo de la función pública, Rendición de Cuentas. (2016). https://www.funcionpublica.gov.co/documents/418537/506955/2016-09-26_Informe_rendicion_cuentas_2015_2016.pdf/c9dbfe38-5899-4167-9d45-18d2e75f0e6f?version=1.1&t=1475249023833&download=true diapositiva 10.
+        figcaption Fuente: <a href="https://www.funcionpublica.gov.co/documents/418537/506955/2016-09-26_Informe_rendicion_cuentas_2015_2016.pdf/c9dbfe38-5899-4167-9d45-18d2e75f0e6f?version=1.1&t=1475249023833&download=true" target="_blank">Departamento administrativo de la función pública, Rendición de Cuentas. (2016). diapositiva 10.</a>
       .py-3.py-md-4(titulo="Participación ciudadana")
         .row.align-items-center
           .col-lg-7
@@ -184,7 +184,7 @@
           .titulo-sexto.color-acento-contenido
             span Ciclo de la gestión vs. niveles de la participación 
           img(src='@/assets/curso/t2/t2.svg' alt='Tabla relacionada').mb-4
-          figcaption Nota: Función pública (s.f ) Imagen tomada de https://www.mincit.gov.co/servicio-ciudadano/informacion-para-el-ciudadano/mecanismos-de-participacion-ciudadana/participacion-en-la-formulacion-de-politicas/politica-de-participacion-ciudadana/2020-11-18-participacion-en-la-gestion.aspx Página 35
+          figcaption Nota: <a href="https://www.mincit.gov.co/servicio-ciudadano/informacion-para-el-ciudadano/mecanismos-de-participacion-ciudadana/participacion-en-la-formulacion-de-politicas/politica-de-participacion-ciudadana/2020-11-18-participacion-en-la-gestion.aspx" target="_blank">Función pública (s.f ) Imagen tomada de Página 35</a>
         p Entre las actividades que adelantan acciones promoviendo la participación ciudadana en la gestión pública se encuentran:
         ul.lista-ul.ms-4
           li 

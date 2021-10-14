@@ -14,7 +14,7 @@
       .titulo-sexto.color-acento-contenido
         span Efectividad en las entidades públicas en la prestación de servicio y atención al ciudadano
       img(src='@/assets/curso/t7/f1.svg' alt='')
-      figcaption Fuente: Departamento administrativo de la Función pública. Modelo integrado de Planeación y gestión MIPG. Taller- 2018, pág.12. (https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_direccionamiento_estrategico_y_planeacion.pdf 
+      figcaption Fuente: <a href="https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_direccionamiento_estrategico_y_planeacion.pdf" target="_blank">Departamento administrativo de la Función pública. Modelo integrado de Planeación y gestión MIPG. Taller- 2018, pág.12.</a>
 
     .row.align-items-center.mb-5
       .col-lg-5
@@ -47,7 +47,7 @@
       .titulo-sexto.color-acento-contenido
         span Determinación de resultados alcanzados en la gestión
       img(src='@/assets/curso/t7/f5.svg' alt='').mb-5
-      figcaption Nota: Fuente: Departamento administrativo de la Función pública. Modelo integrado de Planeación y gestión MIPG. Taller, 2018. (https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_direccionamiento_estrategico_y_planeacion.pdf página 12- Imagen modificada: producción propia)
+      figcaption Fuente: <a href="https://secretariageneral.gov.co/sites/default/files/mipg_dimension_2_direccionamiento_estrategico_y_planeacion.pdf" target="_blank">Departamento administrativo de la Función pública. Modelo integrado de Planeación y gestión MIPG. Taller, 2018. (página 12- Imagen modificada: producción propia)</a>
 
 </template>
 

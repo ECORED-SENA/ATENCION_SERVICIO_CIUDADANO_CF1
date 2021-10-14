@@ -135,7 +135,7 @@
 
     figure.mb-5
       img(src='@/assets/curso/t1/f10.svg' alt='Estructura del estado').mb-4
-      figcaption Nota: Toda Colombia (2019). https://www.todacolombia.com/informacion-de-colombia/estructura-estado-colombiano.html
+      figcaption Nota: <a href="https://www.todacolombia.com/informacion-de-colombia/estructura-estado-colombiano.html" target="_blank">Toda Colombia (2019).</a>
 
     .row.align-items-center.mb-5
       .col-lg-4
@@ -588,7 +588,7 @@
           .titulo-sexto.color-acento-contenido
             span Modelo de gestión pública
           img(src='@/assets/curso/t1/f63.svg' alt='Modelo de gestión pública').mb-4
-          figcaption Nota: Política Nacional. (2021). https://www.dnp.gov.co/programa-nacional-del-servicio-al-ciudadano/Paginas/Pol%C3%ADtica-Nacional.aspx
+          figcaption Nota: <a href="https://www.dnp.gov.co/programa-nacional-del-servicio-al-ciudadano/Paginas/Pol%C3%ADtica-Nacional.aspx" target="_blank">Política Nacional. (2021).</a>
         .col-lg-5
           .cajon.color-secundario.p-4
             p.mb-0 El modelo consta de una ventanilla hacia adentro (arreglos institucionales, que pueden ser dinámicos: procesos internos y trámites y, talento humano, como estructurales); y otra ventanilla hacia afuera (cobertura territorial y de canales; cumplimiento de expectativas y calidad y, certidumbre de tiempo, modo y lugar). Modelo que cada entidad pública debía adoptar para mejorar el servicio al ciudadano.
@@ -641,7 +641,7 @@
         span Modelo de gestión de la calidad basado en procesos
       figure
         img(src='@/assets/curso/t1/f67.svg' alt='')
-        figcaption Nota: ICONTEC (2009. Página 8. http://apolo.uniatlantico.edu.co/SIG/NTC%20GP1000-2009.pdf 
+        figcaption Nota: <a href="http://apolo.uniatlantico.edu.co/SIG/NTC%20GP1000-2009.pdf" target="_blank">ICONTEC 2009. Página 8.</a> 
     
     p.mb-5 La NTC GP 1000-2009 establece que los principios del Sistema de Gestión de Calidad de las entidades públicas se enmarquen, integren, complementen y desarrollen dentro de los principios de la Constitución colombiana:
     .row.mb-5
